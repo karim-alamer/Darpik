@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915742499560",
+    "project_id": "darpik-a583e",
+    "storage_bucket": "darpik-a583e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915742499560:android:d77853eec42e30b274df5d",
+        "android_client_info": {
+          "package_name": "com.example.darpik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwWge1bErx-hON76IWFK-tb5W1n8fx0PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
